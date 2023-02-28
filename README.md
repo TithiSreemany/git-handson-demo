@@ -1,3 +1,4 @@
+# Hi Tithi!
 # Git Hands-On Workshop
 
 ## 0. PowerShell Prep
